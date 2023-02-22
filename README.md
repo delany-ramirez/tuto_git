@@ -4,3 +4,4 @@ Este es un tutorial de AIE para usar el GIT
 
 El objetivo de este tutorial, es aprender los fundamentos básicos del GIT.
 
+Adicionalmente, vamos a implementarlo para el versionamiento de los tableros.
